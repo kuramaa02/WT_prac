@@ -1,0 +1,37 @@
+/* Add some basic styling to make the form look better */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f2f2f2;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #03A96E;
+  }
+  
+  #links-container {
+    margin-top: 20px;
+  }
+  
+  #links-container a {
+    display: block;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: #04AA6D;
+  }
+  
+  #links-container a:hover {
+    color: #03A96E;
+  }
